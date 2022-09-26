@@ -1,5 +1,7 @@
 # GithubAPI
 
+An application that utilizes Github's API to get followers or retrieve any other informations without using any 3rd party libraires, built with programmatic UI.
+
 
 
 
