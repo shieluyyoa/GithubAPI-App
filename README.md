@@ -10,8 +10,8 @@ An application that utilizes Github's API to get followers or retrieve any other
 ## Description
 
 ### Fetch Followers
-* Fetches User Info using Github Follower API
-* Persist the User Avatar Image using Cache
+* Fetches User Info using Github Follower API with Async/Await
+* Persist the Follower Avatar Image using Cache
 * Collection View
 * Diffable Data Source 
 * Pagination
@@ -20,11 +20,16 @@ An application that utilizes Github's API to get followers or retrieve any other
 ![Githubapi_2](https://user-images.githubusercontent.com/88272090/192280763-2fdf766e-5732-4dca-9552-e41128714709.gif)
 
 
+## Access the GitHub Profile and followers of a follower 
+* Custom Child ViewControllers
+* Delegate and Protocol Patterns
+
+![Simulator Screen Recording - iPhone 12 - 2022-09-26 at 23 23 00](https://user-images.githubusercontent.com/88272090/192317123-fec40cf3-d369-4c84-a819-051d34f0b5db.gif)
 
 
 
-### Add Your Favourite Followers
-* Add a user to a list
+### Follow your favourite Users
+* Add a user to your list
 * Persist the user object using UserDefaults
 * TableView 
 
