@@ -16,8 +16,8 @@ An application that utilizes Github's API to get followers or retrieve any other
 * Diffable Data Source 
 * Pagination
 
+![Simulator Screen Recording - iPhone 13 - 2022-10-05 at 17 45 30](https://user-images.githubusercontent.com/88272090/194032270-36415edf-9d1b-4293-a072-89cdcc1aa339.gif)
 
-![Githubapi_2](https://user-images.githubusercontent.com/88272090/192280763-2fdf766e-5732-4dca-9552-e41128714709.gif)
 
 
 ## Access the GitHub Profile and followers of a follower 
@@ -33,8 +33,7 @@ An application that utilizes Github's API to get followers or retrieve any other
 * Persist the user object using UserDefaults
 * TableView 
 
-![Simulator Screen Recording - iPhone 12 - 2022-09-26 at 23 09 39](https://user-images.githubusercontent.com/88272090/192313659-3ca2ca3e-5d26-4746-8507-d9b79bbe3161.gif)
-
+![Simulator Screen Recording - iPhone 13 - 2022-10-05 at 17 49 18](https://user-images.githubusercontent.com/88272090/194032796-a7936a63-586a-46f4-8b3e-280a8481180a.gif)
 
 
 
